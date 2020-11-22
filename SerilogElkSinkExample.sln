@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogElkSinkExample", "SerilogElkSinkExample\SerilogElkSinkExample.csproj", "{53BA2807-2C48-4914-A6D2-32614A55234A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53BA2807-2C48-4914-A6D2-32614A55234A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BA2807-2C48-4914-A6D2-32614A55234A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BA2807-2C48-4914-A6D2-32614A55234A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BA2807-2C48-4914-A6D2-32614A55234A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E692F70-93AE-45FF-8F12-86D795A08E9A}
+	EndGlobalSection
+EndGlobal
